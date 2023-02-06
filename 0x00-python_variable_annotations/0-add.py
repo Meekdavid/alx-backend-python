@@ -1,4 +1,4 @@
-Effiong M
+Effiong 
 #!/usr/bin/env python3
 
 '''
