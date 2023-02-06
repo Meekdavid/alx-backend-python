@@ -1,4 +1,4 @@
-Effiong Mboko 
+Effiong Mboko
 #!/usr/bin/env python3
 
 '''
