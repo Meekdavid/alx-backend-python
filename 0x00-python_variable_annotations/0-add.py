@@ -1,4 +1,4 @@
-Effi
+Eff
 #!/usr/bin/env python3
 
 '''
