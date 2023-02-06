@@ -1,4 +1,4 @@
-Effiong Mbok
+Effiong Mbo
 #!/usr/bin/env python3
 
 '''
