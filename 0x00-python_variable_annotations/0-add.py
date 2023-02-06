@@ -1,4 +1,4 @@
-Effiong Mb
+Effiong M
 #!/usr/bin/env python3
 
 '''
