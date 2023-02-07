@@ -1,4 +1,4 @@
-Efficient everythin
+Efficient everythi
 #!/usr/bin/env python3
 
 import asyncio
