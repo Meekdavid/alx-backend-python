@@ -1,4 +1,4 @@
-Efficie
+Effici
 #!/usr/bin/env python3
 
 import asyncio
